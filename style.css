@@ -120,3 +120,27 @@ p {
     border-radius: 10px;
 }
 
+/* =================================== */
+
+.section-3 {
+    height: 300px;
+    background-color: #efe7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 100px;
+}
+
+.quote {
+    font-size:36px ;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: lighter;
+}
+.writer {
+    align-self: flex-end;
+    font-size: 20px;
+    font-weight: bold;
+}
+
